@@ -18,7 +18,7 @@ if(window.innerWidth <= 992){
     mainTitle.style.paddingBottom = '50px';
 
     menuBar.addEventListener('click', ()=>{
-        menuList.style.height = menuList.style.height === '0px' ? '35vh' : '0px';
+        menuList.style.height = menuList.style.height === '0px' ? '40vh' : '0px';
         menuList.style.transition = 'height .5s linear';
     })
 }
