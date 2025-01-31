@@ -130,6 +130,7 @@ main .three-circle{
     align-items: center;
     flex-direction: column;
     gap: 50px;
+    padding-bottom: 50px;
 }
 
 .about-mainTitle{
